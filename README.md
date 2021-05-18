@@ -1,3 +1,3 @@
 # ConvexHull
 
-Basic Convex Hull algorithm for Rhinocerous 3D using python.
+Basic Convex Hull algorithm for Rhino 3D using python.
