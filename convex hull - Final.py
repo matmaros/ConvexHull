@@ -1,3 +1,6 @@
+#requires Rhino 3d Software - open a new file in rhino and enter "edit python script" into the command bar
+#copy paste the following code into the python editor and run the code
+
 import random 
 import rhinoscriptsyntax as rs
 
